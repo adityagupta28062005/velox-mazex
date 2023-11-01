@@ -1,11 +1,11 @@
 // Motor A connections
-int enA = 9;
-int in1 = 8;
-int in2 = 7;
+int enA = 3;
+int in1 = 2;
+int in2 = 4;
 // Motor B connections
-int enB = 3;
-int in3 = 5;
-int in4 = 4;
+int enB = 6;
+int in3 = 7;
+int in4 = 8;
 
 int noOfIR 5;
 int motorSpeed 100;
